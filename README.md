@@ -1,3 +1,5 @@
+# This is a fork of [https://github.com/adeven/shrimp](Shrimp), and only exists until they accept an issue involving a typo. (See the single commit).
+
 # Shrimp
 [![Build Status](https://travis-ci.org/adeven/shrimp.png?branch=master)](https://travis-ci.org/adeven/shrimp)
 Creates PDFs from URLs using phantomjs
